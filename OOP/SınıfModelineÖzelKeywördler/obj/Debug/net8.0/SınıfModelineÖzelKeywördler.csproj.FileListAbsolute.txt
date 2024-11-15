@@ -1,0 +1,4 @@
+C:\Users\Ahmet\source\repos\OOP\SınıfModelineÖzelKeywördler\obj\Debug\net8.0\SınıfModelineÖzelKeywördler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\source\repos\OOP\SınıfModelineÖzelKeywördler\obj\Debug\net8.0\SınıfModelineÖzelKeywördler.AssemblyInfoInputs.cache
+C:\Users\Ahmet\source\repos\OOP\SınıfModelineÖzelKeywördler\obj\Debug\net8.0\SınıfModelineÖzelKeywördler.AssemblyInfo.cs
+C:\Users\Ahmet\source\repos\OOP\SınıfModelineÖzelKeywördler\obj\Debug\net8.0\SınıfModelineÖzelKeywördler.csproj.CoreCompileInputs.cache
